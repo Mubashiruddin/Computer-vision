@@ -1,1 +1,2 @@
-# Computer-vision
+- Body, Face ,eye and other object detection using OpenCV and Haarcascade. Face detection using HOG+Dlib and CNN
+- Face recognition using LBPH and Dlib classifiers performed on yale faces datset containing pictures of 
